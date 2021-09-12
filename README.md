@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Cameron Kruger ([cameronkruger.me](cameronkruger.me))
+- 👋 Hi, I’m Cameron Kruger ([cameronkruger.me](https://www.cameronkruger.me))
 - 👀 I’m interested in back end Go, Python, and Kotlin development, and am digging into smart contracts & blockchains.
 - 🌱 I’m currently learning CS @ George Mason University, where I'm a rising senior.
 - 💞️ I’m looking to collaborate on smaller open source projects, and maybe join a dev team for a DeFi project or DAO.
