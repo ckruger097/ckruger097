@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Cameron Kruger ([cameronkruger.me](https://www.cameronkruger.me))
 - 👀 I’m interested in back end Go & Python development, and am digging into Rust, Solidity & Web3 in general.
-- 🌱 I’m currently learning CS @ George Mason University (class of '22!).
-- 💞️ I’m looking to collaborate on smaller open source projects, and maybe join a dev team for a DeFi project or DAO.
+- 🌱 ~~I’m currently learning CS @ George Mason University (class of '22!).~~ I graduated!
+- 💞️ Currently working full-time but happy to contribute to a cool open-source project. Most interested in Web3 infra work.
 - 📫 How to reach me 👉 cameron (*dot*) r (*dot*) kruger 🇦 🇹 gmail.com
 
 <!---
